@@ -1,4 +1,4 @@
-This project analyzes e-commerce order data exported from MongoDB.
+This project analyzes e-commerce(WearOn) order data exported from MongoDB.
 
 Features:
 - Data cleaning using Python (pandas)
