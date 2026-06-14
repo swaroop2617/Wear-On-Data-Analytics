@@ -28,7 +28,7 @@ print(clean_df.head())
 # Save clean data
 clean_df.to_csv("orders_clean.csv", index=False)
 
-print("\n✅ Clean data saved!")
+print("\n Clean data saved!")
 
 # -----------------------------
 # ANALYSIS
@@ -91,4 +91,4 @@ if product_list:
     plt.tight_layout()
     plt.show()
 else:
-    print("\n⚠️ No product data extracted (structure may differ)")
+    print("\n No product data extracted (structure may differ)")
