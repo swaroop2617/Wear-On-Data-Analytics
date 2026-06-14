@@ -1,7 +1,7 @@
 # WearOn Data Analysis
 
 This project analyzes e-commerce order data exported from MongoDB to understand sales trends and business insights.
-you can see more analytics in http://wear-on-admin/dashboard
+you can see more analytics in [http://wear-on-admin.vercel.app/dashboard](https://wear-on-admin.vercel.app/dashboard)
 
 ## Features
 
